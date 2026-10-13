@@ -1,6 +1,6 @@
 # Lab 25B — Report
 
-**Họ tên / nhóm:** Châu Tùng Dương  **MSV:** 2A202602822  **Commit:** a3f9ce7078c14d183ed1e95d311a2df59bc86855  **Điểm tự động (`make grade`):** 84.0 / 88
+**Họ tên / nhóm:** Châu Tùng Dương  **MSV:** 2A202602822  **Commit:** 688b3546252b222efe5b38168ab7dab859c31c07  **Điểm tự động (`make grade`):** 84.0 / 88
 
 > Mọi nhận định phải có số. Dán số từ `reports/gameday/*.json`, `reports/workflows.json`, `reports/slo.json`.
 
